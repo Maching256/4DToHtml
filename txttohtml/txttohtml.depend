@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1533294595 source:c:\documents\stage\txttohtml\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"fonctions.h"
+
+1533289175 source:c:\documents\stage\txttohtml\fonctionstostruct.c
+	"fonctionsToStruct.h"
+
+1533289175 c:\documents\stage\txttohtml\fonctionstostruct.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1533295183 source:c:\documents\stage\txttohtml\fonctions.c
+	"fonctions.h"
+
+1533291618 c:\documents\stage\txttohtml\fonctions.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

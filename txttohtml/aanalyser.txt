@@ -1,0 +1,23 @@
+<form>
+<name="Zone de groupe" type="Objet type zone de groupe" left="14" top="80" right="313" bottom="155"/>
+<name="Texte" type="Objet type texte statique" left="14" top="18" right="243" bottom="48"/>
+<name="LaLinea" type="Objet type ligne" left="14" top="40" right="472" bottom="40"/>
+<name="Texte1" type="Objet type texte statique" left="25" top="92" right="149" bottom="107"/>
+<name="Champ" type="Objet type saisie texte" left="108" top="92" right="243" bottom="108"/>
+<name="Texte2" type="Objet type texte statique" left="25" top="121" right="149" bottom="136"/>
+<name="Champ1" type="Objet type saisie texte" left="108" top="121" right="243" bottom="137"/>
+<name="Bouton" type="Objet type bouton poussoir" left="14" top="161" right="82" bottom="199"/>
+<name="Bouton1" type="Objet type bouton poussoir" left="102" top="161" right="176" bottom="199"/>
+<name="Variable" type="Objet type saisie texte" left="20" top="225" right="325" bottom="609"/>
+<name="Bouton2" type="Objet type bouton poussoir" left="393" top="154" right="504" bottom="233"/>
+<name="Bouton 3D" type="Objet type bouton 3D" left="204" top="168" right="249" bottom="199"/>
+<name="Case à cocher" type="Objet type case à cocher" left="290" top="161" right="366" bottom="186"/>
+<name="List Box" type="Objet type listbox" left="356" top="242" right="504" bottom="317"/>
+<name="Case à cocher 3D" type="Objet type case à cocher 3D" left="291" top="188" right="366" bottom="199"/>
+<name="Liste hiérarchique" type="Objet type liste hiérarchique" left="356" top="326" right="498" bottom="390"/>
+<name="Popup Liste déroulante" type="Objet type popup liste déroulante" left="345" top="410" right="470" bottom="442"/>
+<name="Ovale" type="Objet type ovale" left="356" top="456" right="432" bottom="498"/>
+<name="Rectangle" type="Objet type rectangle" left="362" top="513" right="421" bottom="542"/>
+<name="Rectangle rond" type="Objet type rectangle arrondi" left="356" top="562" right="439" bottom="597"/>
+<name="Image1" type="Objet type image statique" left="362" top="640" right="458" bottom="730"/>
+</form>
